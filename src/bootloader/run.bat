@@ -1,0 +1,1 @@
+D:\NASM\nasm.exe boot.asm -o boot.bin
